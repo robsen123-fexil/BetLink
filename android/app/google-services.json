@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254989017984",
+    "project_id": "betlink-1d298",
+    "storage_bucket": "betlink-1d298.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254989017984:android:45209f7565eb1ee81a1765",
+        "android_client_info": {
+          "package_name": "com.betlink.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrPhRUfYYVOqhWgxVERwlRcHoWIY9MKW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
